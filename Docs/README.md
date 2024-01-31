@@ -1,6 +1,6 @@
 # Hatch My Web
 
-[WebUI Version: 0.7.13](https://github.com/StoicDreams/RustWebUI)
+[WebUI Version: 0.7.15](https://github.com/StoicDreams/RustWebUI)
 
 Showcase website for Stoic Dreams frameworks, libraries, tutorials, and code sharing.
 
