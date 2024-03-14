@@ -1,7 +1,7 @@
 use crate::prelude::*;
 
 /// App home page
-pub(crate) fn page_home(_contexts: Contexts) -> Html {
+pub(crate) fn page_home(_contexts: &Contexts) -> Html {
     html! {
         <>
             {title_secondary!(format!("Welcome to {}", get_app_name()))}
