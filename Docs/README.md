@@ -10,9 +10,6 @@ Nuget package coming soon.
 
 ### Prerequisites
 
-* Visual Studio 2019 Preview
-* .NET Blazor
-
 ### Installing
 
 Website coming soon to detail installation instructions and usage of our libraries and frameworks.
