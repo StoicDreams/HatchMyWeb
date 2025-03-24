@@ -1,6 +1,6 @@
 # Hatch My Web
 
-[WebUI Version: 0.10.10](https://github.com/StoicDreams/WebUI)
+[WebUI Version: 0.10.11](https://github.com/StoicDreams/WebUI)
 
 Showcase website for Stoic Dreams frameworks, libraries, tutorials, and code sharing.
 
