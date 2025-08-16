@@ -6,23 +6,24 @@
 
 Showcase website for Stoic Dreams frameworks, libraries, tutorials, and code sharing.
 
-## Getting Started
+## Ideas
 
-Nuget package coming soon.
+- Website builder for creating Web UI framework based websites.
+- Provide hosting and deployment services.
 
-### Prerequisites
+## Development
 
-### Installing
+### Setup
 
-Website coming soon to detail installation instructions and usage of our libraries and frameworks.
+Before running this project, follow the [Web CLI Setup](https://webui.stoicdeams.com/tools/cli) guide and the [Web UI Rust Tools Setup](https://webui.stoicdreams.com/tools/rust) guide to install the necessary tools and dependencies.
 
-## Unit Tests
+### Running the Project
 
-Unit test library will be linked here once uploaded to GitHub.
+To run the project locally, you can use the following command:
 
-## Contributing
-
-We are not currently accepting contributions to this project. But if you'd like to provide feedback or ask questions, please visit [Hatch My Web](https://www.stoicdreams.com/home) and drop us a comment through our Feedback module.
+```terminal:Run the project from the root directory
+../PowerShell/RunLocal.ps1 -port 3210
+```
 
 ## Author
 
