@@ -1,6 +1,6 @@
 # Hatch My Web
 
-[Version: 0.1.4](https://github.com/StoicDreams/HatchMyWeb)
+[Version: 0.1.5](https://github.com/StoicDreams/HatchMyWeb)
 
 [WebUI](https://github.com/StoicDreams/WebUI)
 
