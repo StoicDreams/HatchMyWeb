@@ -12,7 +12,7 @@
 svg, text {overflow:visible;}
 .background{fill:#000000;stroke:#000000;stroke-miterlimit:10;}
 .title{fill:#d14d06;stroke:#d14d06;stroke-miterlimit:10;}
-.primary{fill:#d9620c;stroke:#d9620c;stroke-miterlimit:10;}
+.primary{fill:#f7e708;stroke:#f7e708;stroke-miterlimit:10;}
 .secondary{fill:#2e54ff;stroke:#2e54ff;stroke-miterlimit:10;}
 .tertiary{fill:#7d0b77;stroke:#7d0b77;stroke-miterlimit:10;}
 .success{fill:#1c970e;stroke:#1c970e;stroke-miterlimit:10;}
