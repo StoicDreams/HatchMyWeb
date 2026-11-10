@@ -6,6 +6,4 @@ Hatch My Web is being developed to be a community source for guides and scripts 
 
 In the meantime, visit our [Stoic Dreams company website](https://www.stoicdreams.com) to see our current projects.
 
-Also check out our [discounted domain registration and hosting services](https://host.hatchmyweb.com) powered by GoDaddy.
-
 </webui-sideimage>
