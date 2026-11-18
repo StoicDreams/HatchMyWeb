@@ -1,4 +1,4 @@
-<webui-data data-page-title="Welcome to Hatch My Web" data-page-subtitle=""></webui-data>
+<webui-data data-page-title="Welcome to Hatch My Web" data-page-subtitle="" data-page-description="{APP_NAME} is growing into a community source of guides and scripts for setting up hosting for your websites and web services. Still in development."></webui-data>
 
 <webui-sideimage src="https://cdn.myfi.ws/v/Vecteezy/website-development-web-design-programming-and-coding-php2.svg">
 
