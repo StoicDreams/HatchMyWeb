@@ -16,5 +16,11 @@
     "icon": "rocket",
     "url": "/9fcb2166-215c-4232-8bfd-b794277380cd",
     "children": null
+  },
+  {
+    "name": "Share Image",
+    "icon": "image",
+    "url": "/b29a8787-c032-47ec-bbd1-48f0658ec859",
+    "children": null
   }
 ]
